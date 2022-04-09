@@ -1,4 +1,4 @@
-<h1 align="center">Abaut Me!👀</h1>
+<h1 align="center">About Me!👀</h1>
 
 - 👋 Hi, I’m @siddiqun03
 - 👀 I’m interested in coding and painting.
