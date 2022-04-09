@@ -71,6 +71,7 @@
       alt="javascript"
       width="40"
       height="40"
+         align="right"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -79,6 +80,7 @@
       alt="nodejs"
       width="65"
       height="65"
+         align="right"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -87,6 +89,7 @@
       alt="python"
       width="50"
       height="50"
+         align="right"
     />
   </a>
 </p>
