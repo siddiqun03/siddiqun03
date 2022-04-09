@@ -74,6 +74,7 @@
       width="65"
       height="65"
          align="right"
+         vertical-align="middle"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
