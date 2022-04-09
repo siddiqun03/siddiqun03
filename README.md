@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on EPAM.
 - 📫 How to reach me (t.me/makh_dii).
 
+<hr>
+
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
