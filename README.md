@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on EPAM.
 - 📫 How to reach me (t.me/makh_dii).
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -12,6 +12,7 @@
       alt="bootstrap"
       width="45"
       height="45"
+      align="left"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
