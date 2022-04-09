@@ -1,10 +1,11 @@
+<h1 align="center">Abaut Me!👀</h1>
+
 - 👋 Hi, I’m @siddiqun03
 - 👀 I’m interested in coding and painting.
 - 🌱 I’m currently learning Web-programming.
 - 💞️ I’m looking to collaborate on EPAM.
 - 📫 How to reach me (t.me/makh_dii).
 
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
