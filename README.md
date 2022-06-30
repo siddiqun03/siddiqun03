@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @siddiqun03
 - 👀 I’m interested in coding and painting.
 - 🌱 I’m currently learning Web-programming.
-- 💞️ I’m looking to collaborate on EPAM.
+- 💞️ I’m looking to collaborate on Some New Company.
 - 📫 How to reach me (t.me/makh_dii).
 
 <hr>
