@@ -1,6 +1,6 @@
 <h1 align="center">About Me!👀</h1>
 
-- 👋 Hi, I’m @siddiqun03
+- 👋 <strong>Hi, I’m @siddiqun03</strong>
 - 👀 I’m interested in coding and painting.
 - 🌱 I’m currently learning Web-programming.
 - 💞️ I’m looking to collaborate on Some New Company.
