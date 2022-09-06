@@ -1,10 +1,10 @@
 <h1 align="center">About Me!👀</h1>
 
-- 👋 <strong>Hi, I’m @siddiqun03</strong>
-- 👀 I’m interested in coding and painting.
-- 🌱 I’m currently learning Web-programming.
-- 💞️ I’m looking to collaborate on Some New Company.
-- 📫 How to reach me (t.me/makh_dii).
+- 👋 <strong><i>Hi, I’m @siddiqun03</i></strong>
+- 👀 <strong><i>I’m interested in coding and painting.</i></strong>
+- 🌱 <strong><i>I’m currently learning Web-programming.</i></strong>
+- 💞️ <strong><i>I’m looking to collaborate on Some New Company.</i></strong>
+- 📫 <strong><i>How to reach me (t.me/makh_dii).</i></strong>
 
 <hr>
 
