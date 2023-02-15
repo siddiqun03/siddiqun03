@@ -28,7 +28,7 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="icon" width="65" height="65" />
       <br>Nestjs
     </td>
   </tr>
