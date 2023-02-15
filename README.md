@@ -28,8 +28,8 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nestjs
     </td>
   </tr>
 
@@ -71,8 +71,8 @@
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="mysql" />
+      <br>Nodejs
     </td>
  </tr>
 </table>
