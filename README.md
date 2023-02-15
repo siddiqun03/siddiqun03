@@ -1,8 +1,4 @@
- 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 280px;" />
- ## I am Siddiqun!
-</div> 
+## Hi, I am Siddiqun! 
 </br>
 
  <div>
