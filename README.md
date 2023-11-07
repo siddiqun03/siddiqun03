@@ -1,7 +1,7 @@
 ## Hi, I am Siddiqun! 
 </br>
 
- <div>
+ <div align="center">
   <a href="https://github.com/siddiqun03">
    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqun03&layout=compact&langs_count=16&theme=dracula"/>
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=siddiqun03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
@@ -66,7 +66,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td>
-        <td align="center" width="96">
+        <td align="" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
@@ -83,9 +83,5 @@
 <div> 
   <a href="https://t.me/makh_dii" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"  
   target='_blank'></a>
- </br>
-</br>
- 
-  ![Snake animation](https://github.com/siddiqun03/siddiqun03/blob/output/github-contribution-grid-snake.svg)
- 
+ </br> 
 </div>
